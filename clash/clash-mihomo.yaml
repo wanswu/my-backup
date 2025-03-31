@@ -489,169 +489,169 @@ rule-providers:
   #   type: http
   Lan:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Apple:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple_Classical.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Telegram:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   YouTube:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   BiliBili:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   TikTok:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Spotify:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Netflix:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Disney:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Google:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   OpenAI:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Microsoft:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   LinkedIn:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/LinkedIn/LinkedIn.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Scholar:
     url: https://raw.githubusercontent.com/LM-Firefly/Rules/9443f8126d70769b83b2594c42a157bbf779962c/Clash-RuleSet-Classical/PROXY/Scholar.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Twitter:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   GameDownload:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   GameDownloadCN:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Steam:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   SteamCN:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   OneDrive:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OneDrive/OneDrive.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Emby:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Emby/Emby.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   HoYoverse:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HoYoverse/HoYoverse.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   GlobalMedia:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   ChinaMax:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Gemini:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Claude:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Hijacking:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hijacking/Hijacking.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
   Github:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub_No_Resolve.yaml
-    behavior: classical
+    behavior: domain
     interval: 86400
     proxy: Proxy
     type: http
